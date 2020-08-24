@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Mahfuz's Portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Md Mahfuz Ibn Alam"
+description              : &description "Graduate Teaching Assistant at George Mason University"
+url                      : https://mahfuzibnalam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mahfuzibnalam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Md Mahfuz Ibn Alam"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "I am a Computer Science PhD student of George Mason University"
+  location         : "Fairfax,VA,USA"
+  employer         : "George Mason University"
+  pubmed           :
+  googlescholar    :
+  email            : "malam21(at)gmu(dot)edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "mahfuz.ibnalam"
   foursquare       :
-  github           : "academicpages"
-  google_plus      :
+  github           : "mahfuzibnalam"
+  google_plus      : 
   keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  instagram        : "mahfuz.ibnalam"
+  impactstory      :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "mahfuz-ibn-alam-595828107"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "mahfuzibnalam"
   vine             :
   weibo            :
   xing             :
