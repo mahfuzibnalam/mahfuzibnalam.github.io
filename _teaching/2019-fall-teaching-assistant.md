@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/2019-fall-teaching-assistant
 venue: "George Mason University, Computer Science"
-date: 08/26/2019
+date: 2019-08-26
 location: "Fairfax, VA, USA"
 ---
 
