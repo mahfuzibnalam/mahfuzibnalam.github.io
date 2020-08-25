@@ -9,17 +9,14 @@ author_profile: true
 {% include base_path %}
 
 
-### Software Engineer
+### Sentiment Analysis
 
-* Enosis Solutions, Dhaka, Bangladesh, January 2019 - July 2019
+Sentiment analysis (also known as opinion mining or emotion AI) refers to the use of natural language processing, text analysis, computational linguistics, and biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
 
-### Teaching Assistant
+### Image Captioning
 
-* CS 465, Undergraduate Course, George Mason University, Fairfax, Virginia, USA, Computer Science, Fall 2019
-* CS 465, Undergraduate Course, George Mason University, Fairfax, Virginia, USA, Computer Science, Spring 2020
-* CS/SWE 332, Undergraduate Course, George Mason University, Fairfax, Virginia, USA, Computer Science, Fall 2020
-* SWE 619, Graduate Course, George Mason University, Fairfax, Virginia, USA, Software Engineering, Fall 2020
+Image Captioning is the process of generating textual description of an image. It uses both Natural Language Processing and Computer Vision to generate the captions.
 
-### Research Assistant
+### Robust Machine Translation
 
-* Antonis Anastasopoulos, Fairfax, Virginia, USA, Computer Science, Summer 2020
+Neural Machine Translation (NMT) systems are known to degrade when confronted with noisy data, especially when the system is trained only on clean data. However, some types of noise are very common, in particular for low-resource languages. Handling code-switched, transliterated, or ungrammatical input is essential for deploying systems in the wild.
