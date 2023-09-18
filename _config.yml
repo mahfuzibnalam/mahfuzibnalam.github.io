@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mahfuz's Portfolio"
 title_separator          : "-"
 name                     : &name "Md Mahfuz Ibn Alam"
-description              : &description "Graduate Teaching Assistant at George Mason University"
+description              : &description "Graduate Research Assistant at George Mason University"
 url                      : https://mahfuzibnalam.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mahfuzibnalam.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Md Mahfuz Ibn Alam"
   avatar           : "profile2.jpg"
-  bio              : "I am a Computer Science PhD student of George Mason University"
+  bio              : "Ph.D. candidate expecting to graduate in May 2024."
   location         : "Fairfax,VA,USA"
   employer         : "George Mason University"
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=6khjEYoAAAAJ&hl=en"
   email            : "malam21(at)gmu(dot)edu"
   researchgate     :
   uri              :
@@ -94,16 +94,16 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "mahfuz.ibnalam"
+  facebook         :
   foursquare       :
   github           : "mahfuzibnalam"
   google_plus      : 
   keybase          :
-  instagram        : "mahfuz.ibnalam"
+  instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "mahfuz-ibn-alam-595828107"
-  orcid            :
+  linkedin         : "https://www.linkedin.com/in/md-mahfuz-ibn-alam-595828107/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
