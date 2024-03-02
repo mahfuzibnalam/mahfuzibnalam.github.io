@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+* **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [A Case Study on Filtering for End-to-End Speech Translation](https://arxiv.org/pdf/2402.01945.pdf), Findings of EACL'24, March 2024.
+
+* **Md Mahfuz Ibn Alam**, Sina Ahmadi, Antonios Anastasopoulos. [A Morphologically-Aware Dictionary-based Data Augmentation Technique for Machine Translation of Under-Represented Languages](https://arxiv.org/pdf/2402.01939.pdf), Findings of EACL'24, March 2024.
 
 * **Md Mahfuz Ibn Alam**, Sina Ahmadi, Antonios Anastasopoulos. [CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation](https://arxiv.org/pdf/2305.17267.pdf), Findings of EACL'24, March 2024.
 
