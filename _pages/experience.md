@@ -40,7 +40,7 @@ Assisted in course instruction, grading, and mentoring students in programming, 
 
 * Ph.D. Research Initiation Award, George Mason University, CS Department, 2020
 
-Service & Outreach
+### Service & Outreach
 
 * Co-Organizer, Shared Task: Machine Translation using Terminologies, WMT 2021
 
@@ -48,6 +48,6 @@ Service & Outreach
 
 * Participant/Volunteer, Machine Translation Marathon in the Americas, 2023
 
-Industry Experience
+### Industry Experience
 
 * Software Engineer, Enosis Solutions, Dhaka, Bangladesh, January 2019 – July 2019 – Developed software solutions, contributed to system design, and implemented backend functionality.
