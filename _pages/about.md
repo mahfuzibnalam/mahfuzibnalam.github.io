@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-My name is Md Mahfuz Ibn Alam. I am a Ph.D. candidate expecting to graduate in July 2024 from the Computer Science Department of George Mason University. My dissertation advisor is [Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/). I have received my Masters in Computer Science from George Mason University. My Bachelor's was in Computer Science and Engineering from the Islamic University of Technology, Bangladesh.
+Hi, I’m Md Mahfuz Ibn Alam. I earned my Ph.D. in Computer Science from George Mason University in July 2024, where I worked with [Antonios Anastasopoulos](https://cs.gmu.edu/~antonis/author/antonios-anastasopoulos/). Before that, I completed my M.S. in Computer Science at George Mason and my B.Sc. in Computer Science and Engineering at the Islamic University of Technology in Bangladesh.
 
-I was a competitive programmer back in my undergrad time. I am mostly focused on creating robust models for various Natural Language processing tasks. My expertise lies especially in low-resource scenarios. I am currently in the job market looking for full-time Research Scientist, Applied Scientist, and Data Scientist roles. 
+I’m now an Assistant Teaching Professor in the Department of Data Science at William & Mary. My research focuses on Natural Language Processing, especially on developing robust models for low-resource languages and dialects. In my dissertation, I introduced new methods for translating dialectal sentences, addressing the challenges of limited data and linguistic variation.
 
-Take a look at my [CV](https://black-tori-75.tiiny.site).
+Earlier in my academic journey, I was active in competitive programming, an experience that continues to shape the way I approach problem-solving and computational challenges.
 
+You can explore more about my work in my [CV](https://black-tori-75.tiiny.site).
 
 Interests
 ======
-* Natural Language Processing
-* Low-resource NLP
-* Multilingual NLP
-* Translation
-  * Text-to-Text
-  * Speech-to-Text
-  * Text-to-Speech
-* Large Language Models
+
+* Natural Language Processing (NLP) – building models for low-resource and multilingual languages, translation (text-to-text, speech-to-text, text-to-speech), and large language models.
+
+* Data Science & Teaching – designing and delivering engaging curricula, mentoring students, creating hands-on learning experiences, and applying data-driven methods to real-world problems.
