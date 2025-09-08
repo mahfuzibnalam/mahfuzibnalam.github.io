@@ -6,6 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+* **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [Large Language Models as a Normalizer for Transliteration and Dialectal Translation](https://aclanthology.org/2025.vardial-1.5.pdf), VarDial'25, January 2025.
+
+* Sina Ahmadi, Daban Q Jaff, **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [Language and speech technology for Central Kurdish varieties](https://arxiv.org/pdf/2403.01983), LREC-COLING'24, MAY 2024.
+
 * **Md Mahfuz Ibn Alam**, Sina Ahmadi, Antonios Anastasopoulos. [CODET: A Benchmark for Contrastive Dialectal Evaluation of Machine Translation](https://arxiv.org/pdf/2305.17267.pdf), Findings of EACL'24, March 2024.
 
 * **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [A Case Study on Filtering for End-to-End Speech Translation](https://arxiv.org/pdf/2402.01945.pdf), arXiv preprint, January 2024.
@@ -22,10 +27,10 @@ author_profile: true
 
 * David Adelani, **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos, Akshita Bhagia, Marta R. Costa-jussà, Jesse Dodge, Fahim Faisal, Christian Federmann, Natalia Fedorova, Francisco Guzmán, Sergey Koshelev, Jean Maillard, Vukosi Marivate, Jonathan Mbuya, Alexandre Mourachko, Safiyyah Saleem, Holger Schwenk, Guillaume Wenzek. [Findings of the WMT’22 Shared Task on Large-Scale Machine Translation Evaluation for African Languages](https://aclanthology.org/2022.wmt-1.72.pdf). WMT'22, December 2022.
     
-* Fahim Faisal, Sharlina Keshava, **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [SD-QA: Spoken Dialectal Question Answering for the Real World](https://aclanthology.org/2021.findings-emnlp.281.pdf). Findings of EMNLP'21, November 2021.
-    
 * **Md Mahfuz Ibn Alam**, Ivana Kvapil\'ikov\'a, Antonios Anastasopoulos, Laurent Besacier, Georgiana Dinu, Marcello Federico, Matthias Gall\'e, Philipp Koehn, Vassilina Nikoulina, Kweon Woo Jung. [Findings of the WMT Shared Task on Machine Translation Using Terminologies](https://aclanthology.org/2021.wmt-1.69.pdf). WMT'21, November 2021.
-    
-* **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos, Laurent Besacier, Matthias Gall\'{e}, Philipp Koehn, Vassilina Nikoulina. [On the Evaluation of Machine Translation for Terminology Consistency](https://arxiv.org/pdf/2106.11891.pdf), preprint.
+
+* Fahim Faisal, Sharlina Keshava, **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos. [SD-QA: Spoken Dialectal Question Answering for the Real World](https://aclanthology.org/2021.findings-emnlp.281.pdf). Findings of EMNLP'21, November 2021.
+  
+* **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos, Laurent Besacier, Matthias Gall\'{e}, Philipp Koehn, Vassilina Nikoulina. [On the Evaluation of Machine Translation for Terminology Consistency](https://arxiv.org/pdf/2106.11891.pdf), arXiv preprint, July 2021.
     
 * **Md Mahfuz Ibn Alam**, Antonios Anastasopoulos.  [Fine-Tuning MT systems for Robustness to Second-Language Speaker Variations](https://www.aclweb.org/anthology/2020.wnut-1.20.pdf), W-NUT'20. **[1 of 2 best paper awards]**
